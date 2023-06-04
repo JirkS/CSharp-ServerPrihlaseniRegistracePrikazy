@@ -1,0 +1,4 @@
+milada,m
+jirka,j
+jirks,j
+stepi,stepi
